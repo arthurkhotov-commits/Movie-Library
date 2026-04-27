@@ -11,7 +11,7 @@
 
 ---
 
-👤 Хотов Артур Султанович
+👤 Кушхова Милана Зауровна
 
 - 💻 GitHub: [@arthurkhotov-commits](https://github.com/arthurkhotov-commits)
 
